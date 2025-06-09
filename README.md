@@ -23,3 +23,15 @@ npm install
 
 npm run dev
 ```
+
+## 📁 With Svelte client only
+
+```bash
+npx gitpick https://github.com/devgauravjatt/search-plus-ts/tree/examples/vite-svelte-client
+
+cd vite-svelte-client
+
+npm install
+
+npm run dev
+```
