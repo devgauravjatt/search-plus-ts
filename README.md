@@ -67,4 +67,11 @@ const SearchPlus = new searchPlusTs({
 const results = SearchPlus.search('heart yourself rumi')
 
 console.log('🚀 results :-', results)
+🚀 results :-  [
+  {
+    id: 1,
+    quote: "Your heart is the size of an ocean. Go find yourself in its hidden depths.",
+    author: "Rumi",
+  }
+]
 ```
