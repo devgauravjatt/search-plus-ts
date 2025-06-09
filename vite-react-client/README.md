@@ -6,12 +6,10 @@ This is example of search-plus-ts in client side. With custom search hook -{`use
 
 ```bash
 npx gitpick https://github.com/devgauravjatt/search-plus-ts/examples/vite-react-client
-```
 
-# how to run
-
-```bash
 cd vite-react-client
+
 npm install
+
 npm run dev
 ```
