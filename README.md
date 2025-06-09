@@ -3,7 +3,7 @@
 ## 📁 With server and react client
 
 ```bash
-npx gitpick https://github.com/devgauravjatt/search-plus-ts/examples/with-server-and-client
+npx gitpick https://github.com/devgauravjatt/search-plus-ts/tree/examples/with-server-and-client
 
 cd with-server-and-client
 
@@ -15,7 +15,7 @@ npm run dev
 ## 📁 With React client only
 
 ```bash
-npx gitpick https://github.com/devgauravjatt/search-plus-ts/examples/vite-react-client
+npx gitpick https://github.com/devgauravjatt/search-plus-ts/tree/examples/vite-react-client
 
 cd vite-react-client
 
