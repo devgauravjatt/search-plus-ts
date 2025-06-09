@@ -3,6 +3,28 @@
   "version": "0.0.3",
   "description": "Search always with machs and highlights.",
   "type": "module",
+  "keywords": [
+    "search",
+    "fuzzy-search",
+    "full-text-search",
+    "highlight",
+    "mark",
+    "match",
+    "text-search",
+    "search-library",
+    "typescript",
+    "javascript",
+    "client-side",
+    "server-side",
+    "react",
+    "react-hook",
+    "vite",
+    "search-engine",
+    "lightweight",
+    "filter",
+    "text-matching",
+    "text-highlighting"
+  ],
   "license": "MIT",
   "homepage": "https://github.com/devgauravjatt/search-plus-ts#readme",
   "bugs": {
@@ -12,8 +34,7 @@
     "type": "git",
     "url": "git+https://github.com/devgauravjatt/search-plus-ts.git"
   },
-  "author": "三咲智子 Kevin Deng <sxzz@sxzz.moe>",
-  "funding": "https://github.com/sponsors/sxzz",
+  "author": "devgauravjatt",
   "files": [
     "dist"
   ],
