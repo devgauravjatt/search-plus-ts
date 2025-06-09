@@ -1,0 +1,17 @@
+{
+	"name": "with-server-and-client",
+	"version": "1.0.0",
+	"private": true,
+	"workspaces": [
+		"hono-server",
+		"vite-react-client"
+	],
+	"scripts": {
+		"dev:server": "npm --workspace=hono-server run dev",
+		"dev:client": "npm --workspace=vite-react-client run dev",
+		"dev": "npm-run-all --parallel dev:server dev:client"
+	},
+	"dependencies": {
+		"npm-run-all2": "^8.0.4"
+	}
+}

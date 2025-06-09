@@ -1,0 +1,5 @@
+@import 'tailwindcss';
+
+.search-match {
+	@apply bg-yellow-300 font-semibold px-1;
+}

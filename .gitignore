@@ -26,4 +26,4 @@ dist-ssr
 
 # pnpm lockfile and workspace files
 pnpm-lock.yaml
-pnpm-workspace.yaml
+# pnpm-workspace.yaml

@@ -1,0 +1,7 @@
+packages:
+  - hono-server
+  - vite-react-client
+
+onlyBuiltDependencies:
+  - '@tailwindcss/oxide'
+  - esbuild
