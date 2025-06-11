@@ -4,6 +4,13 @@
 
 `search-plus-ts` is server and client side searching library. and with text highlighting and marking.
 
+![GitHub License](https://img.shields.io/github/license/devgauravjatt/search-plus-ts?logo=github)
+![GitHub last commit](https://img.shields.io/github/last-commit/devgauravjatt/search-plus-ts?logo=git)
+![NPM Downloads](https://img.shields.io/npm/dw/search-plus-ts?logo=npm&color=%23f75352)
+![NPM Version](https://img.shields.io/npm/v/search-plus-ts?logo=npm&color=%23f75352)
+
+---
+
 # 📚 Documentation
 
 Full Guide and Examples With server and client react - [👩‍💻 With sever and react client ](https://github.com/devgauravjatt/search-plus-ts/tree/examples/with-server-and-client)
