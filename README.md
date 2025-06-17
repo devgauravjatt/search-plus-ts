@@ -1,4 +1,5 @@
 # 🔍 Search-Plus-Ts
+![chrome_jLiZ4DAmiC](https://github.com/user-attachments/assets/dd6fcd80-1579-46d6-9a10-0aea6064b735)
 
 ### Search always with machs and highlights.
 
